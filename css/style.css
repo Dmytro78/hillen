@@ -1,0 +1,8 @@
+li {
+  list-style-type: none;
+}
+
+.icon {
+  fill: rgba(255, 107, 9, 1);
+  background: chartreuse;
+}
